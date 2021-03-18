@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {"id": 1, "title": "Javascript1", "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima cumque excepturi id. Distinctio asperiores fuga odit exercitationem repellendus praesentium reiciendis perspiciatis quis error esse iste velit ipsum, quia dolor omnis deleniti incidunt et provident! Libero ipsum odio fugiat at possimus." },
+    {"id": 2, "title": "Javascript2", "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima cumque excepturi id. Distinctio asperiores fuga odit exercitationem repellendus praesentium reiciendis perspiciatis quis error esse iste velit ipsum, quia dolor omnis deleniti incidunt et provident! Libero ipsum odio fugiat at possimus." },
+    {"id": 3, "title": "Javascript3", "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima cumque excepturi id. Distinctio asperiores fuga odit exercitationem repellendus praesentium reiciendis perspiciatis quis error esse iste velit ipsum, quia dolor omnis deleniti incidunt et provident! Libero ipsum odio fugiat at possimus." }
+  ],
+  "about": {
+    "title": "Page about us"
+  }
+}
+
